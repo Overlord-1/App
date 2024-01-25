@@ -4,7 +4,7 @@ This is a simple and user-friendly Weather App built with React that provides yo
 
 ## Live Demo
 
-You can access the live demo of this app by visiting (https://ruchirkhare1234314134.github.io/App/).
+You can access the live demo of this app by visiting (https://overlord-1.github.io/App/).
 
 ## Features
 
